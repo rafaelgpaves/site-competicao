@@ -72,7 +72,7 @@ export default () => {
                 <div className="flex-1">
                     <div className="max-w-xs">
                         <p className="leading-relaxed mt-2 text-[15px]">
-                            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                            Clique nos links ao lado para mais informações.
                         </p>
                     </div>
                     <form 
